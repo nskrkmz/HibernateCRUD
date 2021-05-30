@@ -1,2 +1,9 @@
 # HibernateCRUD
-CRUD operations with Hibernate
+
+
+## CRUD operations
+* Hibernate
+* mysql
+* JSTL
+* JSP
+* Servlet
